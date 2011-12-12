@@ -1,0 +1,13 @@
+#CSE 142 Critters saved settings
+#Thu Dec 08 13:49:29 EST 2011
+Bear=true
+Height=50
+Number\ of\ each\ critter=25
+Network\ features=true
+CookieMonster=false
+Tiger=true
+Lion=true
+Debug\ output=false
+Thoroughbred=true
+Transformer=true
+Width=60
